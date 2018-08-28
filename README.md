@@ -8,5 +8,6 @@ This repository contains all of the notes taken by [G-Develop](https://github.co
 
 ## Table of Contents 
 
-* Week 1
-  * Day 1
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
+
